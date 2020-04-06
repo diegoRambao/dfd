@@ -1,0 +1,15 @@
+.container-center {
+    width: 100% !important;
+    max-width: 330px !important;
+    padding: 15px !important; 
+    margin: auto !important;
+    margin-top: 114px !important;
+}
+
+.inputs {
+    padding: 25px !important;
+    border-radius: 15px !important;
+}
+.buttons {
+    border-radius: 22px !important;
+}
